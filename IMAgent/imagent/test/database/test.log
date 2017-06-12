@@ -1,0 +1,24 @@
+[2016-01-16 15:14:42,789](WARNING)normal : AgentManager.createDB config has not name or attr, now using name=mysql attr={}
+[2016-01-16 15:24:10,028](ERROR)normal : AgentManager.createDB config name is error value:Mysql
+[2016-01-16 15:25:41,944](ERROR)normal : AgentManager.createDB config name is error value: Mysql
+[2016-01-16 15:26:21,976](ERROR)normal : AgentManager.createDB config name is error value: Mysql
+[2016-01-16 15:26:21,977](ERROR)normal : AgentManager.createDB config name is error value: mysql
+[2016-01-16 15:27:13,482](ERROR)normal : AgentManager.createDB config attar is error value: {}
+[2016-01-16 15:27:13,483](ERROR)normal : AgentManager.createDB config name is error value: mysql
+[2016-01-16 16:16:02,698](WARNING)normal : Mysql can not get socket value from config, use /tmp/mysql.sock
+[2016-01-16 16:16:02,727](WARNING)normal : Mysql can not get datadir value from config, start get innodb_data_home_dir
+[2016-01-16 16:18:11,089](WARNING)normal : Mysql can not get socket value from config, use /tmp/mysql.sock
+[2016-01-16 16:18:11,089](WARNING)normal : Mysql can not get datadir value from config, start get innodb_data_home_dir
+[2016-01-16 16:18:27,131](WARNING)normal : Mysql can not get socket value from config, use /tmp/mysql.sock
+[2016-01-16 16:18:27,131](WARNING)normal : Mysql can not get datadir value from config, start get innodb_data_home_dir
+[2016-01-16 16:19:21,467](WARNING)normal : Mysql can not get socket value from config, use /tmp/mysql.sock
+[2016-01-16 16:19:21,467](WARNING)normal : Mysql can not get datadir value from config, start get innodb_data_home_dir
+[2016-01-16 16:19:30,029](WARNING)normal : Mysql can not get socket value from config, use /tmp/mysql.sock
+[2016-01-16 16:19:30,029](WARNING)normal : Mysql can not get datadir value from config, start get innodb_data_home_dir
+[2016-01-16 16:28:04,733](INFO)normal : Start to init Mysql from config
+[2016-01-16 16:28:04,733](WARNING)normal : Mysql can not get socket value from config, use /tmp/mysql.sock
+[2016-01-16 16:28:04,733](WARNING)normal : Mysql can not get datadir value from config, start get innodb_data_home_dir
+[2016-01-16 16:28:48,806](INFO)normal : Start to init Mysql from config
+[2016-01-16 16:29:42,400](INFO)normal : Start to init Mysql from config
+[2016-01-16 16:30:19,795](INFO)normal : Start to init Mysql from config
+[2016-01-16 16:31:42,595](INFO)normal : Start to init Mysql from config
